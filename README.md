@@ -142,3 +142,5 @@ The AERIS-10 main sub-systems are:
 4. **Antenna**: Choose appropriate array for your version
 5. **Enclosure**: 3D printable files in `/10_docs/Hardware/Enclosure`
 
+# 포크용도
+백업용
